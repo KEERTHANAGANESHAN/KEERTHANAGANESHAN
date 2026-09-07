@@ -14,19 +14,13 @@
 
 ## 👩‍💻 About Me
 
-```javascript
-const keerthana = {
-    role: "Full Stack Developer & AI/ML Enthusiast",
-    location: "Coimbatore, India",
-    education: "B.E. Computer Science Engineering, 2023–2027",
-    stack: ["Java", "JavaScript", "Python", "React.js", "Node.js", "Express.js", "MongoDB"],
-    interests: ["Web Development", "Machine Learning", "IoT & Embedded Systems"],
-    currentlyExploring: ["TensorFlow/Keras", "Cloud Computing", "Responsible AI"],
-    funFact: "Built a GPS system that texts you the moment someone crosses a boundary!",
+I'm a final-year Computer Science Engineering student based in Coimbatore, India, with a strong interest in full-stack web development and AI/ML. I enjoy taking an idea from a rough concept to a working product — whether that's a MERN-stack web app, a machine learning model, or an IoT-based safety device.
 
-    motto: () => "Keep learning, keep building, keep shipping."
-};
-```
+My core stack is **Java, JavaScript, and Python**, with **React, Node.js, Express, and MongoDB** for building full applications end to end. Right now, I'm digging deeper into **TensorFlow/Keras, cloud computing, and responsible AI** practices.
+
+A fun fact about me: I once built a GPS-based system that texts you the moment someone crosses a boundary it's watching — turns out geofencing is a lot of fun to work with!
+
+My approach comes down to one line: **keep learning, keep building, keep shipping.**
 
 <br clear="right"/>
 
@@ -97,6 +91,8 @@ const keerthana = {
 <img src="https://github-profile-trophy.vercel.app/?username=KEERTHANAGANESHAN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
+*(Trophies populate once you have public repositories — this will fill in automatically as you push code.)*
+
 ## 💼 Work Experience
 
 <details>
@@ -132,6 +128,14 @@ const keerthana = {
 
 I'm always up for a conversation about web development, machine learning, or interesting side projects. Reach out on [LinkedIn](https://linkedin.com/in/keerthana-ganeshan) or drop me an [email](mailto:keerthanagaeshan49@gmail.com) — happy to chat!
 
+<br>
+
 <div align="center">
+
+### 🙏 Thank You for Visiting!
+
+*If you found something here interesting, feel free to star a repo or connect with me — always happy to meet fellow builders.*
+
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,25&height=120&section=footer" width="100%"/>
+
 </div>
