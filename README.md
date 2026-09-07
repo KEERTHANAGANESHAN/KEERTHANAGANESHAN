@@ -85,14 +85,6 @@ My approach comes down to one line: **keep learning, keep building, keep shippin
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KEERTHANAGANESHAN&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=bf91f3&point=c9d1d9&area=true&hide_border=true"/>
 </div>
 
-## 🏆 Trophy Wall
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KEERTHANAGANESHAN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
-*(Trophies populate once you have public repositories — this will fill in automatically as you push code.)*
-
 ## 💼 Work Experience
 
 <details>
